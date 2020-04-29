@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+---
+title: "Welcome"
+excerpt: ""
+author_profile: true
+layout : single
+header :
+    overlay_image: "assets/images/wolf.jpg"
+    teaser: "assets/images/wolf.jpg"
+redirect_from: 
+    - /about/
+    - /about.html
+---
 
-You can use the [editor on GitHub](https://github.com/AsisASotelo/asissotelo.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my blog. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's how to insert a [link](https://www.google.com/).
 
-### Markdown
+You can also add all HTML elements you are used to:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div class="github-card" data-github="maelfabien/Machine_Learning_Tutorials" data-width="100%" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-```markdown
-Syntax highlighted code block
+You can make a link to your [email address](mailto:yourmail@gmail.com).
 
-# Header 1
-## Header 2
-### Header 3
+Your can put text in *italic*, **bold**, ***bold italic*** and use classic HTML too.
 
-- Bulleted
-- List
+<hr>
 
-1. Numbered
-2. List
+Just add any script that you want at the end:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AsisASotelo/asissotelo.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ewlq11o62v&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
