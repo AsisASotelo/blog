@@ -1,8 +1,12 @@
 # main links links
 main:
+  - title: "Home"
+    url: "/#"
   - title: "Blog"
     url: /blog/
   - title: "Projects"
     url: /portfolio/
   - title: "CV"
     url: /assets/images/CV.pdf
+  - title: "Tutorials"
+    url: /tutorials/

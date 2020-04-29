@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : "YOUR NAME"
-description              : "DESCRIPTION"
-url                      : https://sample_website.github.io
+name                     : "ASIS SOTELO"
+description              : "ASIS SOTELO\n j"
+url                      : https://asissotelo.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # Default teaser image "assets/images/contents/main-cover.jpg"
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : your_twitter 
+  username               : @asissotelo 
 facebook:
   username               :
   app_id                 :
@@ -106,40 +106,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "YOUR NAME"
+  name             : "Asis Sotelo"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "YOUR BIO"
-  location         : ""
+  bio              : "Data Scientist, IBM \nBS Physics, University of California, Santa Barbara"
+  location         : "Los Angeles, CA"
   email            : 
   links:
     - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:sample_website@gmail.com
+      url: mailto:asis.a.sotelo@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your_lkdin/"
+      url: "https://www.linkedin.com/in/asis-sotelo-718753146"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/your_git/"
+      url: "https://github.com/AsisASotelo"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/your_twitter
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://twitter.com/asissotelo?lang=en
+    - #label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
+      #url: https://www.facebook.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/your_git/"
+      url: "https://github.com/AsisASotelo"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your_lkdin/"
+      url: "https://www.linkedin.com/in/asis-sotelo-718753146"
 
 
 # Reading Files

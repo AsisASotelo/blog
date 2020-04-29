@@ -20,7 +20,7 @@ You can also add all HTML elements you are used to:
 <div class="github-card" data-github="maelfabien/Machine_Learning_Tutorials" data-width="100%" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-You can make a link to your [email address](mailto:yourmail@gmail.com).
+You can make a link to your [email address](mailto:asis.a.sotelo@gmail.com).
 
 Your can put text in *italic*, **bold**, ***bold italic*** and use classic HTML too.
 
